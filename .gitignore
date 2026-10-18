@@ -1,0 +1,10 @@
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.idea/
+.DS_Store
+
+output/*
+!output/.gitkeep
