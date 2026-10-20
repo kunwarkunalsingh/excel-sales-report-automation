@@ -73,3 +73,14 @@ It does not automatically correct questionable business data.
 ## Technologies
 
 Python, Pandas, OpenPyXL, unittest, Git, GitHub
+
+
+## Project Output
+
+The automation generates an Excel workbook containing sales
+summaries, product performance, regional performance, cleaned
+sales records, and records requiring review.
+
+### Sales Summary
+
+![Sales summary report](screenshots/summary-report.png)
